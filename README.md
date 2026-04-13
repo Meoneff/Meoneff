@@ -2,7 +2,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Hi+there!+I'm+Hoang+Duy+(Meo);Fullstack+Dev+-+Djs+-+IT;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 <p align="center">
-  https://protofile-meo.vercel.app/
+  <a href="https://protofile-meo.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Me-blue?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </p>
 <div>
   <img align="left" width="160" src="https://i.postimg.cc/pTy21QSp/05c2a1897524e7eec9bc037542ad1a85-removebg-preview.png" style="border-radius: 50%;">
@@ -25,11 +27,13 @@
 ---
 
 ### 🔗 Connect with me
+[🚀 View My Portfolio](https://protofile-meo.vercel.app/)
 [<img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hoangduymeo/)
 [<img align="left" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/Meoneff)
 <br><br>
 
 ![Handsome Point](https://img.shields.io/badge/HANDSOME%20POINT-1%2C565-green?style=flat-square)
+
 
 ---
 
@@ -43,7 +47,7 @@ My professional goal is to secure a stable and challenging position in the tech 
 ```python
 class Hoang_Duy_Meo:
     def __init__(self):
-        self.class = 2025
+        self.graduation_year = 2025
         self.pronouns = "he/him"
         self.hobbies = ["soccer", "programming", "music", "workout", "reading"]
         self.programming_languages = ["TypeScript", "JavaScript", "Java", "C#", "SQL", "Python"]
